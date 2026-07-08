@@ -1,4 +1,4 @@
-# Enunciado del Proyecto
+# Enunciado del Proyecto (Javier y Andreina en Bogotá)
 
 Bogotá es una hermosa ciudad ubicada sobre un inmenso altiplano que está más de 8000 pies encima del nivel del mar. Con algunas excepciones, sus vías de comunicación constituyen una cuadrícula en la que:
 * Las carreras van de norte a sur y vice-versa.
