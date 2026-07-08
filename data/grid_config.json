@@ -1,0 +1,43 @@
+{
+  "grid_limits": {
+    "calle_min": 50,
+    "calle_max": 55,
+    "carrera_min": 10,
+    "carrera_max": 15
+  },
+  "default_weight": 5,
+  "special_weights": {
+    "carreras": {
+      "11": 7,
+      "12": 7,
+      "13": 7
+    },
+    "calles": {
+      "51": 10
+    }
+  },
+  "start_locations": {
+    "Javier": {
+      "calle": 54,
+      "carrera": 14
+    },
+    "Andreina": {
+      "calle": 52,
+      "carrera": 13
+    }
+  },
+  "establishments": {
+    "Discoteca The Darkness": {
+      "calle": 50,
+      "carrera": 14
+    },
+    "Bar La Pasión": {
+      "calle": 54,
+      "carrera": 11
+    },
+    "Cervecería Mi Rolita": {
+      "calle": 50,
+      "carrera": 12
+    }
+  }
+}
